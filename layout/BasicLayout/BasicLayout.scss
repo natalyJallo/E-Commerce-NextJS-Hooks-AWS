@@ -1,0 +1,11 @@
+body{
+    background-color: red !important;
+}
+.basic_layout {
+    min-height: 100vh;
+
+    .content {
+        background-color: aqua;
+        height: 100vh;
+    }
+}
